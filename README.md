@@ -45,7 +45,10 @@ If you're on Windows, make sure Developer Mode is enabled (run: start ms-setting
 
 🧱 Tech Stack
 Flutter + Dart
+
+
 *Dependencies used:
+
 1)path_provider – to access app storage
 
 2)permission_handler – to request permissions
@@ -53,3 +56,15 @@ Flutter + Dart
 3)open_filex – to open PDFs using default viewer
 
 4)dart:io – for file management
+
+⚠️ Limitations
+
+-Only supports PDFs
+
+-Tested only on Android
+
+-Relies on valid public direct PDF URLs
+
+-iOS support not configured
+
+
