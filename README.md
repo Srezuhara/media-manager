@@ -26,6 +26,7 @@ flutter pub get
 
 
 flutter run
+
 If you're on Windows, make sure Developer Mode is enabled (run: start ms-settings:developers)
 
 
@@ -44,11 +45,11 @@ If you're on Windows, make sure Developer Mode is enabled (run: start ms-setting
 
 🧱 Tech Stack
 Flutter + Dart
+*Dependencies used:
+1)path_provider – to access app storage
 
-path_provider – to access app storage
+2)permission_handler – to request permissions
 
-permission_handler – to request permissions
+3)open_filex – to open PDFs using default viewer
 
-open_filex – to open PDFs using default viewer
-
-dart:io – for file management
+4)dart:io – for file management
