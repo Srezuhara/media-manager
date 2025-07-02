@@ -18,11 +18,13 @@ A Flutter app that allows users to download, view and delete PDF files — all s
    https://github.com/Srezuhara/media-manager.git
 
 2. Install dependencies:
-'''bash
+
+
 flutter pub get
 
 3.Run the app:
-'''bash
+
+
 flutter run
 If you're on Windows, make sure Developer Mode is enabled (run: start ms-settings:developers)
 
